@@ -6,11 +6,16 @@ Life big moments should be stress free, but financial struggle often overshadows
 
 #Who is it for 
 Individuals : savings for birthdays, proposals, personal milestones. 
+
 Families : Planning children's weddings or graduation 
+
 Groups & Communities: organizing reunions, charity drives, or shared celebrations.
 
 #core features 
 Smart Event Savings 
+
 Crowdfunding 
+
 Celebr8 Wallet
+
 Milestone tracker 
